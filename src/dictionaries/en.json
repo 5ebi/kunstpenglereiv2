@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "atelier": "Studio",
+    "arbeiten": "Works",
+    "leistungen": "Services",
+    "referenzen": "Clients",
+    "kontakt": "Contact"
+  },
+  "brand": {
+    "wordmark": "Kunstpenglerei Speiser",
+    "tagline": "Fine metalwork from Vienna."
+  },
+  "home": {
+    "eyebrow": "Three generations",
+    "heading": "Fine metalwork from Vienna.",
+    "intro": "From our workshop in Vienna’s 19th district we make vases, art objects and interior pieces in copper, brass and zinc — in close collaboration with designers, architects, artists and the city’s finest hotels.",
+    "featuredHeading": "Selected works",
+    "aboutLink": "About the studio",
+    "contactCta": "Make an enquiry"
+  },
+  "atelier": {
+    "eyebrow": "Studio",
+    "heading": "Three generations of craft.",
+    "body": [
+      "Founded by [TBD: grandfather’s name] in [TBD: founding year], run in the second generation by Helmut Speiser, and today in the third by Andreas Speiser.",
+      "We are art metalworkers — Kunstspengler. We make fine interior pieces in metal: vases, objects, lights, cladding, hardware, restorations. No roofing, no façades. Only the pieces that live inside, close to people.",
+      "Each piece is made to order. We raise, solder, patinate, polish — by hand, by eye, with patience. For clients who care about material, proportion and surface."
+    ],
+    "portraitCaption": "Andreas Speiser · Proprietor · Third generation since [TBD: year]"
+  },
+  "arbeiten": {
+    "eyebrow": "Works",
+    "heading": "From the workshop.",
+    "intro": "A selection from current and completed projects. Photography in preparation — [TBD: photos].",
+    "captionTbd": "[TBD: title & year]"
+  },
+  "leistungen": {
+    "eyebrow": "Services",
+    "heading": "What we do.",
+    "items": [
+      {
+        "title": "Art metalwork",
+        "body": "Free and commissioned objects: vases, vessels, sculptures, wall pieces. In collaboration with artists and designers when desired."
+      },
+      {
+        "title": "Interiors",
+        "body": "Metalwork for hotels, restaurants, boutiques and private homes — cladding, lighting, hardware, bespoke fittings."
+      },
+      {
+        "title": "Bespoke commissions",
+        "body": "One-off pieces and small series from the designs of architects and designers. From concept to installation."
+      },
+      {
+        "title": "Restoration",
+        "body": "Conservation of historic metalwork — with respect for material, patina and original substance."
+      },
+      {
+        "title": "Materials",
+        "body": "Copper · Brass · Zinc · Tin · Bronze · Stainless steel. Raised, soldered, polished, patinated."
+      }
+    ]
+  },
+  "referenzen": {
+    "eyebrow": "Clients",
+    "heading": "Selected references.",
+    "intro": "Long-standing work for houses and people for whom quality is a given.",
+    "categories": {
+      "hotel": "Hotel",
+      "restaurant": "Restaurant",
+      "confiserie": "Confectioner",
+      "designer": "Designer",
+      "architekt": "Architect",
+      "andere": "Other"
+    }
+  },
+  "kontakt": {
+    "eyebrow": "Contact",
+    "heading": "Workshop & studio.",
+    "address": {
+      "company": "Kunstpenglerei Andreas Speiser",
+      "street": "Billrothstraße 56, Stiege 1",
+      "city": "1190 Vienna",
+      "country": "Austria"
+    },
+    "labels": {
+      "phone": "Telephone",
+      "email": "Email",
+      "address": "Address",
+      "hours": "Opening hours"
+    },
+    "hours": "By appointment",
+    "cta": "Write to us"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "impressum": "Imprint"
+  }
+}

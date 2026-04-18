@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="g4" cx="0.5" cy="0.35" r="0.6">
+      <stop offset="0%" stop-color="#F6F0DF"/>
+      <stop offset="100%" stop-color="#D9D3C3"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="500" fill="url(#g4)"/>
+  <g fill="none" stroke="#8A6A3B" stroke-width="1" opacity="0.35">
+    <line x1="200" y1="0" x2="200" y2="180"/>
+    <ellipse cx="200" cy="220" rx="60" ry="40"/>
+    <path d="M140 220 L 260 220"/>
+  </g>
+  <circle cx="200" cy="220" r="12" fill="#C2A66A" opacity="0.6"/>
+  <text x="20" y="480" font-family="Georgia, serif" font-size="11" fill="#5B5752" opacity="0.6" letter-spacing="2">04 · LEUCHTE</text>
+</svg>

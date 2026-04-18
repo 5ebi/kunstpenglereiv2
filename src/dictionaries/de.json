@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "atelier": "Atelier",
+    "arbeiten": "Arbeiten",
+    "leistungen": "Leistungen",
+    "referenzen": "Referenzen",
+    "kontakt": "Kontakt"
+  },
+  "brand": {
+    "wordmark": "Kunstpenglerei Speiser",
+    "tagline": "Feine Metallarbeiten aus Wien."
+  },
+  "home": {
+    "eyebrow": "Seit drei Generationen",
+    "heading": "Feine Metallarbeiten aus Wien.",
+    "intro": "In der Werkstatt in Wien-Döbling fertigen wir Vasen, Kunstobjekte und Innenraum-Arbeiten aus Kupfer, Messing und Zink. In enger Zusammenarbeit mit Designern, Architekten, Künstlern und den namhaften Hotels der Stadt.",
+    "featuredHeading": "Ausgewählte Arbeiten",
+    "aboutLink": "Über das Atelier",
+    "contactCta": "Anfrage stellen"
+  },
+  "atelier": {
+    "eyebrow": "Atelier",
+    "heading": "Drei Generationen Handwerk.",
+    "body": [
+      "Gegründet von [TBD: Name des Großvaters] im Jahr [TBD: Gründungsjahr], geführt in der zweiten Generation von Helmut Speiser, heute in dritter Generation von Andreas Speiser.",
+      "Wir sind Kunstspengler. Das heißt: wir machen feine Innenraum-Arbeiten aus Metall — Vasen, Objekte, Leuchten, Verkleidungen, Beschläge, Restaurierungen. Keine Dachspenglerei, keine Fassade. Nur das, was innen steht oder hängt, nah am Menschen.",
+      "Jedes Stück entsteht auf Bestellung. Wir treiben, löten, patinieren, polieren. Wir arbeiten mit der Hand, mit dem Auge, mit Geduld. Für Kunden, denen Material, Proportion und Oberfläche wichtig sind."
+    ],
+    "portraitCaption": "Andreas Speiser · Inhaber · [TBD: Jahreszahl] in dritter Generation"
+  },
+  "arbeiten": {
+    "eyebrow": "Arbeiten",
+    "heading": "Aus der Werkstatt.",
+    "intro": "Eine Auswahl aus laufenden und abgeschlossenen Projekten. Bildmaterial in Vorbereitung — [TBD: Fotos].",
+    "captionTbd": "[TBD: Titel & Jahr]"
+  },
+  "leistungen": {
+    "eyebrow": "Leistungen",
+    "heading": "Was wir tun.",
+    "items": [
+      {
+        "title": "Kunstspenglerei",
+        "body": "Freie und beauftragte Objekte: Vasen, Gefäße, Skulpturen, Wandarbeiten. Auf Wunsch in Zusammenarbeit mit Künstlern und Designern."
+      },
+      {
+        "title": "Innenraum & Interieur",
+        "body": "Metallarbeiten für Hotels, Restaurants, Boutiquen und Privathäuser — Verkleidungen, Leuchten, Beschläge, massgefertigte Einbauten."
+      },
+      {
+        "title": "Sonderanfertigung",
+        "body": "Einzelstücke und Kleinserien nach Entwurf von Architekten und Designern. Vom Konzept bis zum Einbau."
+      },
+      {
+        "title": "Restaurierung",
+        "body": "Instandsetzung historischer Metallarbeiten — mit Rücksicht auf Material, Patina und Originalsubstanz."
+      },
+      {
+        "title": "Materialien",
+        "body": "Kupfer · Messing · Zink · Zinn · Bronze · Edelstahl. Getrieben, gelötet, poliert, patiniert."
+      }
+    ]
+  },
+  "referenzen": {
+    "eyebrow": "Referenzen",
+    "heading": "Auswahl an Auftraggebern.",
+    "intro": "Langjährige Zusammenarbeit mit Häusern und Personen, bei denen Qualität eine Selbstverständlichkeit ist.",
+    "categories": {
+      "hotel": "Hotel",
+      "restaurant": "Restaurant",
+      "confiserie": "Confiserie",
+      "designer": "Designer",
+      "architekt": "Architekt",
+      "andere": "Weitere"
+    }
+  },
+  "kontakt": {
+    "eyebrow": "Kontakt",
+    "heading": "Werkstatt & Atelier.",
+    "address": {
+      "company": "Kunstpenglerei Andreas Speiser",
+      "street": "Billrothstraße 56, Stiege 1",
+      "city": "1190 Wien",
+      "country": "Österreich"
+    },
+    "labels": {
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "address": "Adresse",
+      "hours": "Öffnungszeiten"
+    },
+    "hours": "Nach Vereinbarung",
+    "cta": "Schreiben Sie uns"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "impressum": "Impressum"
+  }
+}

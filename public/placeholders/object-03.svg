@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EDEAE2"/>
+      <stop offset="100%" stop-color="#D2CABA"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" fill="url(#g3)"/>
+  <g fill="none" stroke="#8A6A3B" stroke-width="1" opacity="0.35">
+    <rect x="160" y="170" width="80" height="200"/>
+    <line x1="160" y1="220" x2="240" y2="220"/>
+    <line x1="160" y1="320" x2="240" y2="320"/>
+  </g>
+  <text x="20" y="480" font-family="Georgia, serif" font-size="11" fill="#5B5752" opacity="0.6" letter-spacing="2">03 · OBJEKT</text>
+</svg>
