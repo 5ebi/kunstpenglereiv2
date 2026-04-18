@@ -11,7 +11,7 @@
     "tagline": "Feine Metallarbeiten aus Wien."
   },
   "home": {
-    "eyebrow": "Seit drei Generationen",
+    "eyebrow": "Seit 1930 · Drei Generationen",
     "heading": "Feine Metallarbeiten aus Wien.",
     "intro": "In der Werkstatt in Wien-Döbling fertigen wir Vasen, Kunstobjekte und Innenraum-Arbeiten aus Kupfer, Messing und Zink. In enger Zusammenarbeit mit Designern, Architekten, Künstlern und den namhaften Hotels der Stadt.",
     "featuredHeading": "Ausgewählte Arbeiten",
@@ -22,11 +22,12 @@
     "eyebrow": "Atelier",
     "heading": "Drei Generationen Handwerk.",
     "body": [
-      "Gegründet von [TBD: Name des Großvaters] im Jahr [TBD: Gründungsjahr], geführt in der zweiten Generation von Helmut Speiser, heute in dritter Generation von Andreas Speiser.",
+      "Gegründet von [TBD: Name des Großvaters] um 1930 in Wien, fortgeführt in der zweiten Generation von Helmut Speiser, heute in dritter Generation von Andreas Speiser, der das Atelier 1999 übernommen hat.",
+      "Seit den frühen 1930er Jahren Mitglied der Landesinnung Wien der Spengler und Kupferschmiede — 1995 für mehr als 65 Jahre Innungszugehörigkeit ausgezeichnet, 2024 für das 25-jährige Firmenjubiläum unter Andreas Speiser.",
       "Wir sind Kunstspengler. Das heißt: wir machen feine Innenraum-Arbeiten aus Metall — Vasen, Objekte, Leuchten, Verkleidungen, Beschläge, Restaurierungen. Keine Dachspenglerei, keine Fassade. Nur das, was innen steht oder hängt, nah am Menschen.",
       "Jedes Stück entsteht auf Bestellung. Wir treiben, löten, patinieren, polieren. Wir arbeiten mit der Hand, mit dem Auge, mit Geduld. Für Kunden, denen Material, Proportion und Oberfläche wichtig sind."
     ],
-    "portraitCaption": "Andreas Speiser · Inhaber · [TBD: Jahreszahl] in dritter Generation"
+    "portraitCaption": "Andreas Speiser · Inhaber · Seit 1999 in dritter Generation"
   },
   "arbeiten": {
     "eyebrow": "Arbeiten",
@@ -69,6 +70,7 @@
       "restaurant": "Restaurant",
       "confiserie": "Confiserie",
       "designer": "Designer",
+      "kuenstler": "Künstler",
       "architekt": "Architekt",
       "andere": "Weitere"
     }

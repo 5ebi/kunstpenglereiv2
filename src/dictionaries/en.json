@@ -11,7 +11,7 @@
     "tagline": "Fine metalwork from Vienna."
   },
   "home": {
-    "eyebrow": "Three generations",
+    "eyebrow": "Since 1930 · Three generations",
     "heading": "Fine metalwork from Vienna.",
     "intro": "From our workshop in Vienna’s 19th district we make vases, art objects and interior pieces in copper, brass and zinc — in close collaboration with designers, architects, artists and the city’s finest hotels.",
     "featuredHeading": "Selected works",
@@ -22,11 +22,12 @@
     "eyebrow": "Studio",
     "heading": "Three generations of craft.",
     "body": [
-      "Founded by [TBD: grandfather’s name] in [TBD: founding year], run in the second generation by Helmut Speiser, and today in the third by Andreas Speiser.",
+      "Founded in Vienna around 1930 by [TBD: grandfather’s name], continued in the second generation by Helmut Speiser, and today in the third by Andreas Speiser, who took over the workshop in 1999.",
+      "A member of the Landesinnung Wien der Spengler und Kupferschmiede (Vienna Guild of Plumbers and Coppersmiths) since the early 1930s — recognised in 1995 for over 65 years of guild membership, and in 2024 for the 25th anniversary of Andreas Speiser’s proprietorship.",
       "We are art metalworkers — Kunstspengler. We make fine interior pieces in metal: vases, objects, lights, cladding, hardware, restorations. No roofing, no façades. Only the pieces that live inside, close to people.",
       "Each piece is made to order. We raise, solder, patinate, polish — by hand, by eye, with patience. For clients who care about material, proportion and surface."
     ],
-    "portraitCaption": "Andreas Speiser · Proprietor · Third generation since [TBD: year]"
+    "portraitCaption": "Andreas Speiser · Proprietor · Third generation since 1999"
   },
   "arbeiten": {
     "eyebrow": "Works",
@@ -69,6 +70,7 @@
       "restaurant": "Restaurant",
       "confiserie": "Confectioner",
       "designer": "Designer",
+      "kuenstler": "Artist",
       "architekt": "Architect",
       "andere": "Other"
     }

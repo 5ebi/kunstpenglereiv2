@@ -3,6 +3,7 @@ export type ClientCategory =
   | "restaurant"
   | "confiserie"
   | "designer"
+  | "kuenstler"
   | "architekt"
   | "andere";
 
@@ -20,8 +21,7 @@ export const clients: Client[] = [
   { name: "Zum Schwarzen Kameel", location: "Wien", category: "restaurant" },
   { name: "Altmann & Kühne", location: "Wien", category: "confiserie" },
   { name: "Clemens Schillinger", location: "Wien", category: "designer" },
-  { name: "Zenith", category: "andere", tbd: true },
-  { name: "Komad", category: "andere", tbd: true },
+  { name: "Zenita Komad", location: "Wien", category: "kuenstler" },
 ];
 
 export const categoryOrder: ClientCategory[] = [
@@ -29,6 +29,7 @@ export const categoryOrder: ClientCategory[] = [
   "restaurant",
   "confiserie",
   "designer",
+  "kuenstler",
   "architekt",
   "andere",
 ];
